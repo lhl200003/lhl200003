@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm 0xsea 👋
 
-<!--
-**lhl200003/lhl200003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+- 🌱 我目前对 AI、区块链和新技术很感兴趣（虽然我还不会写代码，但我在学习和探索中）。
+- 📍 所在地：中国香港
+- 💡 目标：通过开源和分享，记录自己的学习过程。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 关于我
+我不是专业程序员，但喜欢尝试新东西。目前正在丰富自己的 GitHub，希望未来能参与一些有趣的项目。
+
+### 我的仓库
+- 这个 Profile 本身就是一个开始！
+- 后续我会陆续添加一些简单项目（比如笔记、资源收集、想法列表等）。
+
+如果你也对 AI 或区块链感兴趣，欢迎交流！
+
+---
+
+**Let's connect!**
+- Twitter/X: [@0xsea63](https://x.com/0xsea63)
+
+感谢你的访问！🚀## Hi there 👋
