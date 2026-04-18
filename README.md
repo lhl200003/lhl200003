@@ -1,23 +1,25 @@
-# Hi there, I'm 0xsea 👋
+# Hi, I'm 0xsea 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=lhl200003&color=0e75b6&style=flat)
 
 欢迎来到我的 GitHub 主页！
 
-- 🌱 我目前对 AI、区块链和新技术很感兴趣（虽然我还不会写代码，但我在学习和探索中）。
-- 📍 所在地：中国香港
-- 💡 目标：通过开源和分享，记录自己的学习过程。
+- 🌏 所在地：**香港**
+- 🧠 对 **AI、区块链** 和新技术很感兴趣
+- 📝 目前在持续学习和记录中
 
 ### 关于我
-我不是专业程序员，但喜欢尝试新东西。目前正在丰富自己的 GitHub，希望未来能参与一些有趣的项目。
+虽然我还不会写复杂代码，但我喜欢探索新东西，并通过 GitHub 记录学习过程、收集资源、分享想法。
 
-### 我的仓库
-- 这个 Profile 本身就是一个开始！
-- 后续我会陆续添加一些简单项目（比如笔记、资源收集、想法列表等）。
+### 当前项目
+- **[my-learning-notes](https://github.com/lhl200003/my-learning-notes)**：我的学习笔记与资源收集
 
-如果你也对 AI 或区块链感兴趣，欢迎交流！
+### 欢迎交流
+如果你也对 AI、区块链或开源感兴趣，欢迎随时交流！
 
 ---
 
-**Let's connect!**
-- Twitter/X: [@0xsea63](https://x.com/0xsea63)
+**Connect with me**
+- X / Twitter: [@0xsea63](https://x.com/0xsea63)
 
-感谢你的访问！🚀## Hi there 👋
+感谢你的访问！持续更新中... 🚀
