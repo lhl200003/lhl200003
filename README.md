@@ -2,7 +2,7 @@
 
 欢迎来到我的 GitHub 主页！
 
-- 所在地：香港
+- 所在地：香港·Hongkong
 - 兴趣：AI、区块链、自主 Agent、加密
 - 当前项目：ArcSplit（Arc Testnet 上的非托管 USDC revenue-sharing app）
 
